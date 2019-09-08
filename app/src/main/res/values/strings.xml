@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Chirag C Shetty</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">
+
+        Hi, I\'m Chirag,
+        \n\n Hi again
+        \n\n Hi again
+        \n\n Hi again
+        \n\n Hi again
+        \n\n Hi again
+        \n\n Hi again
+        \n\n Hi again
+        \n\n Hi again
+        \n\n Hi again
+        \n\n Hi again  Hi again Hi again Hi again Hi again Hi again Hi again Hi again Hi again
+        Hi again Hi again Hi again Hi again Hi again Hi again  Hi again
+        \n\n Hi again
+        \n\n Hi again
+        \n\n Hi again
+        \n\n Done
+        \n\n Done
+        \n\n Hi again\n\n</string>
+    <string name="whats_your_name">What\'s Your Name?</string>
+    <string name="done">Done</string>
+</resources>
